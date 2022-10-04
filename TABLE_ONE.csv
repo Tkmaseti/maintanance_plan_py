@@ -1,0 +1,12 @@
+WORK ORDER;DESCRIPTION;MAINTENANCE TYPE;Completed/Not completed
+;;;
+1;Install a pump;CM;completed
+2;Replace a bearing;CM;completed
+3;Paint the workshop;CM;completed
+4;Fix the Window;CM;in progress
+5;Service the air con;PM;in progress
+6;Service the generator;PM;in progress
+7;Set the limit switch;CM;in progress
+8;Remove the window;CM;in progress
+9;Paint the workshop;PM;in progress
+10;Clean the compressor;PM;in progress
